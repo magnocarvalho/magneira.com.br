@@ -1,13 +1,36 @@
-name: Your Blog
-tagline: Things you talk about
-url: https://YOURUSER.github.io/blog
-menu:
-  - ["About", "about.html"]
-  - ["Pages", "pages.html"]
-  - ["Tags", "tags.html"]
-  - ["Follow me", "https://mastodon.social/@YOURUSER"]
-  - ["Github", "https://github.com/rochacbruno/marmite"]
+name: Magneira
+tagline: Engenharia de software, tecnologia e inteligência artificial
+url: https://magneira.com.br
+footer: "Magneira — Magno Carvalho dos Santos"
 
+logo_image: static/brand/magneira-logo-horizontal.svg
+
+pagination: 10
+toc: false
+json_feed: true
+enable_search: true
+search_show_matches: true
+
+menu:
+  - ["Sobre", "about.html"]
+  - ["Projetos", "projects.html"]
+  - ["Blog", "index.html"]
+  - ["GitHub", "https://github.com/magnocarvalho"]
+  # TODO: adicionar o link do LinkedIn quando a URL estiver definida
+  # - ["LinkedIn", "https://www.linkedin.com/in/SEU-USUARIO"]
+
+default_author: magno
+authors:
+  magno:
+    name: Magno Carvalho dos Santos
+    bio: Engenheiro de software e líder de tecnologia. Fundador da Magneira.
+    links:
+      - ["GitHub", "https://github.com/magnocarvalho"]
+      # - ["LinkedIn", "https://www.linkedin.com/in/SEU-USUARIO"]
+
+file_mapping:
+  - source: static/CNAME
+    dest: CNAME
 
 # More options available to customize the website
-# read on https://rochacbruno.github.io/marmite/tag/customization.html
+# read on https://marmite.blog/config.html

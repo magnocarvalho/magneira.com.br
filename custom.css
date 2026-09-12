@@ -1,2 +1,31 @@
-/* Customize me */
-/* picocss.com  */
+@import url('https://fonts.googleapis.com/css2?family=Michroma&family=Montserrat:wght@300;400;500;600;700&display=swap');
+
+:root {
+  --magneira-blue: #0B3D91;
+  --magneira-petroleum: #0E5F78;
+  --magneira-cyan: #17B6C6;
+  --magneira-gray: #A7B2BF;
+  --magneira-white: #FFFFFF;
+
+  --pico-font-family: 'Montserrat', system-ui, sans-serif;
+  --pico-primary: var(--magneira-blue);
+  --pico-primary-hover: var(--magneira-petroleum);
+  --pico-primary-underline: var(--magneira-cyan);
+}
+
+h1, h2, h3 {
+  font-family: 'Michroma', 'Montserrat', system-ui, sans-serif;
+  letter-spacing: 0.02em;
+}
+
+a {
+  color: var(--magneira-petroleum);
+}
+
+a:hover {
+  color: var(--magneira-cyan);
+}
+
+header img {
+  max-height: 2.4rem;
+}
