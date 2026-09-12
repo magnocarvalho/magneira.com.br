@@ -4,6 +4,10 @@ title: Projetos
 
 # Projetos
 
-Estou organizando alguns dos projetos, produtos e experiências que fizeram parte da minha trajetória — em fintech (PIX, Banking as a Service), proptech e, mais recentemente, inteligência artificial aplicada.
+Estou organizando alguns dos projetos, produtos e experiências que fizeram parte da minha trajetória, principalmente em:
 
-Em construção.
+- **Software**
+- **Fintech**
+- **Inteligência Artificial**
+
+Em construção — em breve, cada projeto vai virar um case técnico: contexto, problema, arquitetura, decisões e resultados.

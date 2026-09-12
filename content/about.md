@@ -4,18 +4,27 @@ title: Sobre
 
 # Magno Carvalho dos Santos
 
-Sou engenheiro de software e líder de tecnologia, com experiência na construção de produtos e plataformas nos setores financeiro e imobiliário.
+Tecnologia começou para mim como desenvolvimento de software. Com o tempo, passei a trabalhar cada vez mais com arquitetura, cloud, sistemas distribuídos e liderança técnica.
 
-A **Magneira** é o espaço onde compartilho projetos, experiências e estudos sobre engenharia de software, arquitetura, cloud e inteligência artificial.
+Minha experiência passou por produtos imobiliários, infraestrutura financeira, pagamentos, Banking as a Service e liderança de times de engenharia.
+
+Hoje meu foco está na interseção entre:
+
+- Software
+- Tecnologia
+- Negócios
+- Inteligência Artificial
+
+A **Magneira** é o espaço onde compartilho essa trajetória — projetos, decisões técnicas e estudos sobre engenharia de software, arquitetura, cloud e inteligência artificial.
 
 ## Trajetória
 
-- **2018** — Início profissional em desenvolvimento de software.
-- **2020** — **Arbo** — proptech, engenharia de software e cloud.
-- **2022** — **U4C** — fintech, PIX, Banking as a Service e arquitetura.
-- **2024** — **Big4Tech** — engenharia e liderança técnica.
-- **2025** — **Liber Finance** — CTO.
-- **2026+** — **Magneira** — software, tecnologia e inteligência artificial.
+- **2018** — Software Engineering
+- **2020** — PropTech (Arbo)
+- **2022** — FinTech / Banking / PIX (U4C)
+- **2024** — Tech Leadership (Big4Tech)
+- **2025** — CTO (Liber Finance)
+- **2026** — Magneira
 
 ## O que eu faço
 
@@ -31,8 +40,6 @@ Arquitetura, tech leadership, estratégia, produtos.
 **Inteligência Artificial**
 IA aplicada, automação, agentes, integração de LLMs.
 
-## Contato
+---
 
-- E-mail: [contato@magneira.com.br](mailto:contato@magneira.com.br)
-- GitHub: [github.com/magnocarvalho](https://github.com/magnocarvalho)
-- LinkedIn: [linkedin.com/in/magnocarv](https://www.linkedin.com/in/magnocarv)
+[Fale comigo →](contato.html)

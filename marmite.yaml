@@ -14,9 +14,8 @@ search_show_matches: true
 menu:
   - ["Sobre", "about.html"]
   - ["Projetos", "projects.html"]
-  - ["Blog", "index.html"]
-  - ["GitHub", "https://github.com/magnocarvalho"]
-  - ["LinkedIn", "https://www.linkedin.com/in/magnocarv"]
+  - ["Blog", "archive.html"]
+  - ["Contato", "contato.html"]
 
 default_author: magno
 authors:
