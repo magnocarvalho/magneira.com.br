@@ -30,10 +30,6 @@ authors:
 file_mapping:
   - source: static/CNAME
     dest: CNAME
-  - source: brand/favicon.ico
-    dest: favicon.ico
-  - source: brand/favicon.ico
-    dest: static/favicon.ico
 
 # More options available to customize the website
 # read on https://marmite.blog/config.html
