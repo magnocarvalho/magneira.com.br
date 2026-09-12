@@ -16,8 +16,7 @@ menu:
   - ["Projetos", "projects.html"]
   - ["Blog", "index.html"]
   - ["GitHub", "https://github.com/magnocarvalho"]
-  # TODO: adicionar o link do LinkedIn quando a URL estiver definida
-  # - ["LinkedIn", "https://www.linkedin.com/in/SEU-USUARIO"]
+  - ["LinkedIn", "https://www.linkedin.com/in/magnocarv"]
 
 default_author: magno
 authors:
@@ -26,7 +25,7 @@ authors:
     bio: Engenheiro de software e líder de tecnologia. Fundador da Magneira.
     links:
       - ["GitHub", "https://github.com/magnocarvalho"]
-      # - ["LinkedIn", "https://www.linkedin.com/in/SEU-USUARIO"]
+      - ["LinkedIn", "https://www.linkedin.com/in/magnocarv"]
 
 file_mapping:
   - source: static/CNAME
