@@ -22,6 +22,7 @@ default_author: magno
 authors:
   magno:
     name: Magno Carvalho dos Santos
+    avatar: https://github.com/magnocarvalho.png
     bio: Engenheiro de software e líder de tecnologia. Fundador da Magneira.
     links:
       - ["GitHub", "https://github.com/magnocarvalho"]
